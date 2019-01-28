@@ -2,14 +2,26 @@ AWSTemplateFormatVersion: '2010-09-09'
 Resources:
   GraphQL:
     Properties:
-      CodeUri: s3://haleiiie-graphql/47d7befa628a4bdd0b950bb08a0a6c6a
+      CodeUri: s3://haleiiie-graphql/ee4f39409865d1337a86ffc96e0a5f61
+      Description: GraphQL example function
       Events:
-        AnyRequest:
+        GraphQLAPI:
           Properties:
-            Method: GET
+            Method: Any
             Path: /graphql
           Type: Api
-      Handler: graphql.handler
+      Handler: graphql.lambda_handler
+      MemorySize: 128
       Runtime: nodejs8.10
+      Timeout: 15
     Type: AWS::Serverless::Function
+  GraphQLTestTable:
+    Properties:
+      PrimaryKey:
+        Name: timestamp
+        Type: String
+      ProvisionedThroughput:
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
+    Type: AWS::Serverless::SimpleTable
 Transform: AWS::Serverless-2016-10-31
