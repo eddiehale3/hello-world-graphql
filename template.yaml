@@ -4,11 +4,23 @@ Resources:
   GraphQL:
     Type: AWS::Serverless::Function
     Properties:
-      Handler: graphql.handler
+      Handler: graphql.graphqlHandler
       Runtime: nodejs8.10
+      Description: GraphQL example function
+      MemorySize: 128
+      Timeout: 15
       Events:
-        AnyRequest:
+        GraphQLAPI:
           Type: Api
           Properties:
             Path: /graphql
-            Method: GET
+            Method: Any
+  GraphQLTestTable: 
+    Type: AWS::Serverless::SimpleTable
+    Properties: 
+      PrimaryKey: 
+        Name: id
+        Type: String
+      ProvisionedThroughput: 
+        ReadCapacityUnits: 1
+        WriteCapacityUnits: 1
