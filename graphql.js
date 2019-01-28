@@ -1,22 +1,9 @@
-const { ApolloServer, gql } = require('apollo-server-lambda');  
-var AWS = require('aws-sdk');
+'use strict';
 
-// Construct a schema, using GraphQL schema language 
-const typeDefs = gql`   
-	type Query {     
-		hello: String   
-	} `;  
+console.log('Loading function');
 
-// Provide resolver functions for your schema fields 
-const resolvers = {   
-	Query: {     
-		hello: () => 'Hello world!',   
-	}, 
-};  
-
-const server = new ApolloServer({   
-	typeDefs,   
-	resolvers,
-});  
-
-exports.handler = server.createHandler();
+exports.lambda_handler = (event, context, callback) => {
+    console.log('Received event:', JSON.stringify(event, null, 2));
+    callback(null, "Hello World!");  // Echo back the first key value
+    //callback('Something went wrong');
+}

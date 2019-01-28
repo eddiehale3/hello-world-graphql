@@ -4,7 +4,7 @@ Resources:
   GraphQL:
     Type: AWS::Serverless::Function
     Properties:
-      Handler: graphql.graphqlHandler
+      Handler: graphql.lambda_handler
       Runtime: nodejs8.10
       Description: GraphQL example function
       MemorySize: 128
@@ -19,7 +19,7 @@ Resources:
     Type: AWS::Serverless::SimpleTable
     Properties: 
       PrimaryKey: 
-        Name: id
+        Name: timestamp
         Type: String
       ProvisionedThroughput: 
         ReadCapacityUnits: 1
