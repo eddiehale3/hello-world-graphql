@@ -1,804 +1,904 @@
 {
-  "GraphQLTable":[
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"12:26:50",
-              "value":79.75
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"1:02:48",
-              "value":51.72
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"5:05:06",
-              "value":12.4
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"2:19:02",
-              "value":38.18
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"0:59:55",
-              "value":14.1
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"21:11:22",
-              "value":34.7
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"11:00:39",
-              "value":32.72
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"0:25:19",
-              "value":43.49
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:19:12",
-              "value":68.03
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"10:37:31",
-              "value":55.39
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"15:00:53",
-              "value":63.78
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"21:25:06",
-              "value":26.89
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:00:48",
-              "value":2.56
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"6:22:11",
-              "value":1.12
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"8:46:35",
-              "value":48.92
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"21:34:31",
-              "value":40.64
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"13:11:56",
-              "value":47.84
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"16:04:39",
-              "value":19.8
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"9:19:49",
-              "value":11.59
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:32:46",
-              "value":59.7
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"13:43:12",
-              "value":12.54
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"20:33:33",
-              "value":45.8
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"20:31:49",
-              "value":34.5
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"14:45:59",
-              "value":59.11
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"19:06:02",
-              "value":85.04
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"7:53:27",
-              "value":31.4
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"9:50:22",
-              "value":97.61
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"8:22:14",
-              "value":48.96
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"0:52:41",
-              "value":26.81
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"20:44:13",
-              "value":54.16
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"19:46:26",
-              "value":81.87
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"6:43:43",
-              "value":9.79
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"6:37:36",
-              "value":61.8
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"12:09:45",
-              "value":89.88
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"5:40:22",
-              "value":43.7
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:54:33",
-              "value":26.68
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"15:41:48",
-              "value":94.22
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"6:05:23",
-              "value":99.67
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"17:48:35",
-              "value":82.13
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"9:54:11",
-              "value":62.8
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"13:16:53",
-              "value":76.97
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"7:00:56",
-              "value":16.11
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"5:02:07",
-              "value":56.74
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"17:04:25",
-              "value":28.04
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"3:32:12",
-              "value":85.3
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"3:02:19",
-              "value":96.73
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"20:26:37",
-              "value":68.61
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"5:00:25",
-              "value":70.59
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"12:25:00",
-              "value":1.42
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"17:45:52",
-              "value":63.77
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"14:31:23",
-              "value":64.11
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"2:58:17",
-              "value":71.28
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"13:19:54",
-              "value":53.27
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"7:22:46",
-              "value":55.44
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:46:22",
-              "value":27.78
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"14:50:41",
-              "value":18.18
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"12:39:06",
-              "value":68.18
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:00:49",
-              "value":10.49
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"21:11:29",
-              "value":68.24
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:44:11",
-              "value":45.05
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"18:14:46",
-              "value":69.82
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"9:52:27",
-              "value":7.7
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"23:53:38",
-              "value":92.14
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:21:48",
-              "value":75.7
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:40:00",
-              "value":36.09
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"8:32:11",
-              "value":62.78
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"9:27:54",
-              "value":57.1
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"0:06:23",
-              "value":48.01
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"5:41:11",
-              "value":37.16
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:21:34",
-              "value":27.27
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"16:44:03",
-              "value":73.82
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"23:37:47",
-              "value":17.37
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:27:01",
-              "value":52.81
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"18:21:18",
-              "value":9.86
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"21:57:49",
-              "value":32.41
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:54:34",
-              "value":14.85
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"23:44:49",
-              "value":2.38
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"13:55:20",
-              "value":10.8
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:41:45",
-              "value":49.87
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"19:13:27",
-              "value":32.51
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"15:50:48",
-              "value":71
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"13:43:57",
-              "value":43.88
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"3:47:55",
-              "value":7.49
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"3:39:15",
-              "value":89.32
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"2:48:48",
-              "value":69.24
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"1:39:44",
-              "value":14.5
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:42:39",
-              "value":67.48
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"4:56:26",
-              "value":69
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"23:27:54",
-              "value":63.7
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"1:51:42",
-              "value":21.59
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"3:13:27",
-              "value":53.18
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"17:55:49",
-              "value":6.5
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"6:26:39",
-              "value":50.67
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"12:49:04",
-              "value":53.26
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"15:13:40",
-              "value":81.15
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"22:42:23",
-              "value":5.57
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"1:45:17",
-              "value":94.78
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"19:21:00",
-              "value":92.36
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"21:34:40",
-              "value":82.92
-           }
-        }
-     },
-     {
-        "PutRequest":{
-           "Item":{
-              "timestamp":"23:58:21",
-              "value":10.63
-           }
-        }
-     }
+  "GraphQLTestTable": [
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "0f1d609f-d8d1-403d-a151-24c737f2db23"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "21"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Juarez"
+          },
+          "last_name": {
+            "S": "Gonzalez"
+          },
+          "company": {
+            "S": "CYTREK"
+          },
+          "email": {
+            "S": "juarez.gonzalez@cytrek.org"
+          },
+          "phone": {
+            "S": "+1 (915) 400-3408"
+          },
+          "address": {
+            "S": "147 Melrose Street, Loyalhanna, District Of Columbia, 9567"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "2999c592-f5de-4542-bf00-3cbf06432a1c"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "34"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Betty"
+          },
+          "last_name": {
+            "S": "Cortez"
+          },
+          "company": {
+            "S": "AQUASSEUR"
+          },
+          "email": {
+            "S": "betty.cortez@aquasseur.com"
+          },
+          "phone": {
+            "S": "+1 (853) 466-3435"
+          },
+          "address": {
+            "S": "183 Bergen Avenue, Wells, New York, 5760"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "3f4c1054-9e89-4750-b13e-07b53d116f65"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "24"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Moreno"
+          },
+          "last_name": {
+            "S": "Quinn"
+          },
+          "company": {
+            "S": "FANFARE"
+          },
+          "email": {
+            "S": "moreno.quinn@fanfare.biz"
+          },
+          "phone": {
+            "S": "+1 (979) 538-3935"
+          },
+          "address": {
+            "S": "160 Farragut Place, Darlington, Minnesota, 4733"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "75614abd-6f0c-43bb-94d2-9123d690c651"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "21"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Cantu"
+          },
+          "last_name": {
+            "S": "Carrillo"
+          },
+          "company": {
+            "S": "ORBIN"
+          },
+          "email": {
+            "S": "cantu.carrillo@orbin.biz"
+          },
+          "phone": {
+            "S": "+1 (827) 478-2316"
+          },
+          "address": {
+            "S": "239 Vandervoort Avenue, Herald, American Samoa, 2011"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "2992f48a-faf2-4cd3-b7b4-cd4e3fd8c8ec"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "31"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Burns"
+          },
+          "last_name": {
+            "S": "Shields"
+          },
+          "company": {
+            "S": "HOTCAKES"
+          },
+          "email": {
+            "S": "burns.shields@hotcakes.name"
+          },
+          "phone": {
+            "S": "+1 (958) 600-2461"
+          },
+          "address": {
+            "S": "860 Furman Avenue, Fruitdale, Oklahoma, 154"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "138a251d-0d67-49da-817a-9000b96c6aab"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "40"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Nina"
+          },
+          "last_name": {
+            "S": "Grimes"
+          },
+          "company": {
+            "S": "MAGMINA"
+          },
+          "email": {
+            "S": "nina.grimes@magmina.ca"
+          },
+          "phone": {
+            "S": "+1 (828) 594-2491"
+          },
+          "address": {
+            "S": "762 Ashford Street, Navarre, Missouri, 7821"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "37507f9a-a5cf-401d-888c-556bf93d1792"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "38"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Janet"
+          },
+          "last_name": {
+            "S": "Horton"
+          },
+          "company": {
+            "S": "TALKALOT"
+          },
+          "email": {
+            "S": "janet.horton@talkalot.tv"
+          },
+          "phone": {
+            "S": "+1 (911) 472-3180"
+          },
+          "address": {
+            "S": "792 Herkimer Place, Beason, Michigan, 3070"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "a094b13b-5b49-4469-ae1d-b2ee3ac6f03d"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "35"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Savannah"
+          },
+          "last_name": {
+            "S": "Bates"
+          },
+          "company": {
+            "S": "RAMEON"
+          },
+          "email": {
+            "S": "savannah.bates@rameon.us"
+          },
+          "phone": {
+            "S": "+1 (918) 558-3504"
+          },
+          "address": {
+            "S": "984 Milford Street, Heil, Kansas, 4046"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "57935660-b355-4c0a-bfa2-972151462a34"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "21"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Ballard"
+          },
+          "last_name": {
+            "S": "Monroe"
+          },
+          "company": {
+            "S": "TERRASYS"
+          },
+          "email": {
+            "S": "ballard.monroe@terrasys.me"
+          },
+          "phone": {
+            "S": "+1 (873) 548-2456"
+          },
+          "address": {
+            "S": "648 Ira Court, Summerfield, Pennsylvania, 4823"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "3048decc-da46-42be-b1fa-8af8fb47b7b6"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "21"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Sue"
+          },
+          "last_name": {
+            "S": "Coleman"
+          },
+          "company": {
+            "S": "KENGEN"
+          },
+          "email": {
+            "S": "sue.coleman@kengen.info"
+          },
+          "phone": {
+            "S": "+1 (986) 477-2033"
+          },
+          "address": {
+            "S": "964 Cooke Court, Sanford, Georgia, 675"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "6a0ff0d7-6b7c-4134-9b86-a26d0676d691"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "33"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Patel"
+          },
+          "last_name": {
+            "S": "Goodman"
+          },
+          "company": {
+            "S": "NEPTIDE"
+          },
+          "email": {
+            "S": "patel.goodman@neptide.net"
+          },
+          "phone": {
+            "S": "+1 (815) 429-3141"
+          },
+          "address": {
+            "S": "756 Osborn Street, Roberts, Montana, 9309"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "458e21b8-ddaf-42c9-ab29-e954c84f1566"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "33"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Myrna"
+          },
+          "last_name": {
+            "S": "Merrill"
+          },
+          "company": {
+            "S": "YURTURE"
+          },
+          "email": {
+            "S": "myrna.merrill@yurture.co.uk"
+          },
+          "phone": {
+            "S": "+1 (927) 499-3747"
+          },
+          "address": {
+            "S": "435 Beekman Place, Axis, Wisconsin, 157"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "e5452843-8a73-4aac-8854-583cba957f4f"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "29"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Marina"
+          },
+          "last_name": {
+            "S": "Willis"
+          },
+          "company": {
+            "S": "AFFLUEX"
+          },
+          "email": {
+            "S": "marina.willis@affluex.org"
+          },
+          "phone": {
+            "S": "+1 (828) 555-3670"
+          },
+          "address": {
+            "S": "724 Hausman Street, Welch, Massachusetts, 287"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "ede8f86b-a5e6-4053-897c-2c011a4720fe"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "24"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Suzette"
+          },
+          "last_name": {
+            "S": "Clemons"
+          },
+          "company": {
+            "S": "INSECTUS"
+          },
+          "email": {
+            "S": "suzette.clemons@insectus.com"
+          },
+          "phone": {
+            "S": "+1 (867) 596-2034"
+          },
+          "address": {
+            "S": "646 Visitation Place, Rosburg, South Carolina, 4928"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "091ee0a7-8aa7-4581-8756-fb0ebc308030"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "29"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Pat"
+          },
+          "last_name": {
+            "S": "Obrien"
+          },
+          "company": {
+            "S": "ZILLACOM"
+          },
+          "email": {
+            "S": "pat.obrien@zillacom.biz"
+          },
+          "phone": {
+            "S": "+1 (956) 516-3572"
+          },
+          "address": {
+            "S": "703 Thames Street, Coventry, Hawaii, 6376"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "0688213e-d6c6-4620-a9bd-3f26d21dcae4"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "30"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Garrett"
+          },
+          "last_name": {
+            "S": "Boone"
+          },
+          "company": {
+            "S": "EQUITAX"
+          },
+          "email": {
+            "S": "garrett.boone@equitax.biz"
+          },
+          "phone": {
+            "S": "+1 (868) 558-3965"
+          },
+          "address": {
+            "S": "582 Frank Court, Northchase, Idaho, 2967"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "0a3e5da9-c1e4-4ab1-88ed-17b62e42c679"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "29"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Gonzalez"
+          },
+          "last_name": {
+            "S": "Douglas"
+          },
+          "company": {
+            "S": "QNEKT"
+          },
+          "email": {
+            "S": "gonzalez.douglas@qnekt.name"
+          },
+          "phone": {
+            "S": "+1 (994) 448-3279"
+          },
+          "address": {
+            "S": "346 Apollo Street, Independence, South Dakota, 8205"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "7779081c-b6b4-4a5e-b6f1-ace31c898b33"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "27"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Stein"
+          },
+          "last_name": {
+            "S": "Hooper"
+          },
+          "company": {
+            "S": "SULTRAX"
+          },
+          "email": {
+            "S": "stein.hooper@sultrax.ca"
+          },
+          "phone": {
+            "S": "+1 (819) 578-2111"
+          },
+          "address": {
+            "S": "139 Burnett Street, Bergoo, Palau, 6390"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "67712b0c-c06c-4b93-b9f1-67c97c540017"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "40"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Foreman"
+          },
+          "last_name": {
+            "S": "Pennington"
+          },
+          "company": {
+            "S": "XUMONK"
+          },
+          "email": {
+            "S": "foreman.pennington@xumonk.tv"
+          },
+          "phone": {
+            "S": "+1 (836) 562-3680"
+          },
+          "address": {
+            "S": "108 Branton Street, Klagetoh, Utah, 6072"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "e24f7e64-4c61-4c5a-be84-4595d4c8f390"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "35"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Colleen"
+          },
+          "last_name": {
+            "S": "Schultz"
+          },
+          "company": {
+            "S": "PROVIDCO"
+          },
+          "email": {
+            "S": "colleen.schultz@providco.us"
+          },
+          "phone": {
+            "S": "+1 (983) 491-2105"
+          },
+          "address": {
+            "S": "843 Linden Boulevard, Franklin, Maine, 510"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "9229e2aa-1397-411c-8dac-3fb02cef5209"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "30"
+          },
+          "eyeColor": {
+            "S": "blue"
+          },
+          "first_name": {
+            "S": "Lolita"
+          },
+          "last_name": {
+            "S": "Evans"
+          },
+          "company": {
+            "S": "GENMY"
+          },
+          "email": {
+            "S": "lolita.evans@genmy.me"
+          },
+          "phone": {
+            "S": "+1 (832) 413-3690"
+          },
+          "address": {
+            "S": "780 Lloyd Street, Waiohinu, California, 3265"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "31ea6f96-5c57-4d47-b7ea-48f271edb6fb"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "20"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Perry"
+          },
+          "last_name": {
+            "S": "Mcpherson"
+          },
+          "company": {
+            "S": "EYERIS"
+          },
+          "email": {
+            "S": "perry.mcpherson@eyeris.info"
+          },
+          "phone": {
+            "S": "+1 (933) 584-3279"
+          },
+          "address": {
+            "S": "201 Adams Street, Nescatunga, Vermont, 609"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "b890e69b-5a10-4f7d-aa98-83f2136bff5a"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "24"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Lydia"
+          },
+          "last_name": {
+            "S": "Sutton"
+          },
+          "company": {
+            "S": "MEDIOT"
+          },
+          "email": {
+            "S": "lydia.sutton@mediot.net"
+          },
+          "phone": {
+            "S": "+1 (911) 564-2755"
+          },
+          "address": {
+            "S": "942 Lewis Avenue, Rose, Maryland, 2622"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "a983e89e-432f-44f9-9087-c2a526856156"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "21"
+          },
+          "eyeColor": {
+            "S": "brown"
+          },
+          "first_name": {
+            "S": "Olsen"
+          },
+          "last_name": {
+            "S": "Wilder"
+          },
+          "company": {
+            "S": "UNIWORLD"
+          },
+          "email": {
+            "S": "olsen.wilder@uniworld.co.uk"
+          },
+          "phone": {
+            "S": "+1 (818) 490-3804"
+          },
+          "address": {
+            "S": "414 Gelston Avenue, Sutton, Northern Mariana Islands, 7676"
+          }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "guid": {
+            "S": "e3441f43-0895-49f2-90ce-577acc26add1"
+          },
+          "picture": {
+            "S": "http://placehold.it/32x32"
+          },
+          "age": {
+            "N": "31"
+          },
+          "eyeColor": {
+            "S": "green"
+          },
+          "first_name": {
+            "S": "Christensen"
+          },
+          "last_name": {
+            "S": "Richardson"
+          },
+          "company": {
+            "S": "SUREMAX"
+          },
+          "email": {
+            "S": "christensen.richardson@suremax.org"
+          },
+          "phone": {
+            "S": "+1 (832) 411-3861"
+          },
+          "address": {
+            "S": "948 Canda Avenue, Robinette, Nebraska, 7163"
+          }
+        }
+      }
+    }
   ]
 }

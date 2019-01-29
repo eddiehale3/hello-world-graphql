@@ -2,26 +2,35 @@ AWSTemplateFormatVersion: '2010-09-09'
 Resources:
   GraphQL:
     Properties:
-      CodeUri: s3://haleiiie-graphql/ee4f39409865d1337a86ffc96e0a5f61
+      CodeUri: s3://haleiiie-sam-test-bucket/916a77ab24efac444fcddd93a9d2b27e
       Description: GraphQL example function
+      Environment:
+        Variables:
+          TABLE_NAME:
+            Ref: GraphQLTestTable
       Events:
         GraphQLAPI:
           Properties:
-            Method: Any
+            Method: GET
             Path: /graphql
           Type: Api
+      FunctionName: graphQLTestFunction
       Handler: graphql.lambda_handler
       MemorySize: 128
+      Role: arn:aws:iam::687329657910:role/GraphQLExecuteRole
       Runtime: nodejs8.10
       Timeout: 15
     Type: AWS::Serverless::Function
   GraphQLTestTable:
     Properties:
       PrimaryKey:
-        Name: timestamp
+        Name: guid
         Type: String
       ProvisionedThroughput:
         ReadCapacityUnits: 1
         WriteCapacityUnits: 1
+      SSESpecification:
+        SSEEnabled: true
+      TableName: GraphQLTestTable
     Type: AWS::Serverless::SimpleTable
 Transform: AWS::Serverless-2016-10-31
